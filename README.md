@@ -46,7 +46,7 @@ class CustomerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![alt text](<Screenshot (10).png>)
-
+![alt text](<Screenshot 2024-11-16 024121.png>)
 
 
 ## RESULT
